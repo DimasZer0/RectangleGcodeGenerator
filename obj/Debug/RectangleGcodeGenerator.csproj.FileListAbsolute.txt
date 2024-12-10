@@ -1,0 +1,13 @@
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\bin\Debug\GcodeGenerator.exe
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\bin\Debug\GcodeGenerator.pdb
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\RectangleGcodeGenerator.baml
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\RectangleGcodeGenerator.g.cs
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\App.g.cs
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\GcodeGenerator_MarkupCompile.cache
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\GcodeGenerator.g.resources
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\GcodeGenerator.Properties.Resources.resources
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\RectangleGcodeGenerator.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\RectangleGcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\GcodeGenerator.exe
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\GcodeGenerator.pdb
+C:\Users\Дима\source\repos\RectangleGcodeGenerator\obj\Debug\RectangleGcodeGenerator.csproj.AssemblyReference.cache
